@@ -5,8 +5,8 @@ WriteMakefile(
     'NAME'		=> 'Math-Roman',
     'VERSION_FROM'	=> 'lib/Math/Roman.pm', # finds $VERSION
     'PREREQ_PM'		=> { 
-			Math::BigInt => 1.45,
-			Math::BigFloat => 1.23
+			Math::BigInt => 1.70,
+			Math::BigFloat => 1.44
 			   },
     'LIBS'		=> [''], # e.g., '-lm'
     'DEFINE'		=> '', # e.g., '-DHAVE_SOMETHING'

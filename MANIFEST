@@ -6,6 +6,8 @@ LICENSE
 MANIFEST
 NEW
 TODO
+SIGNATURE
 Makefile.PL
 lib/Math/Roman.pm
 t/romanpm.t
+META.yml                                 Module meta-data (added by MakeMaker)
